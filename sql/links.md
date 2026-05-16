@@ -1,0 +1,1 @@
+SQL Q/A: https://www.linkedin.com/posts/contactpraveensingh_sql-dataengineering-dataanalytics-activity-7423653033382805504-XNjU/?utm_source=share&utm_medium=member_ios&rcm=ACoAAA89M4cB122wT45wZ7Xl_9s31gsU5thwLdY
