@@ -1,0 +1,1 @@
+Understanding MCP vs A2A: https://www.truefoundry.com/blog/mcp-vs-a2a#:~:text=When%20scaling%20AI%2C%20choosing%20the,tasks%20and%20communicate%20across%20systems.
